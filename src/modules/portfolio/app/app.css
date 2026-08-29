@@ -1,0 +1,21 @@
+.portfolio-app {
+    min-height: 100vh;
+    background: #ffffff;
+    color: #111827;
+}
+
+main {
+    width: 100%;
+}
+
+section {
+    max-width: 1200px;
+    min-height: 400px;
+    margin: 0 auto;
+    padding: 100px 24px;
+}
+
+section h2 {
+    font-size: 40px;
+    margin: 0;
+}
