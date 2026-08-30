@@ -1,0 +1,3 @@
+[build]
+  command = "yarn lwr build --target=netlify --clean"
+  publish = "site"

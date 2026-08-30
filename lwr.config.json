@@ -24,5 +24,8 @@
             "file": "$rootDir/src/assets/favicon.ico",
             "urlPath": "/favicon.ico"
         }
-    ]
+    ],
+    "staticSiteGenerator": {
+        "outputDir": "site"
+    }
 }
