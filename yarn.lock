@@ -13165,6 +13165,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "portfolio-lwc-oss@workspace:."
   dependencies:
+    "@lwc/compiler": "npm:9.3.4"
+    "@lwc/module-resolver": "npm:9.3.4"
     lwc: "npm:9.3.4"
     lwr: "npm:0.24.0"
   languageName: unknown
