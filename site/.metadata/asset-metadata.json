@@ -1,0 +1,24 @@
+{
+  "assets": {
+    "/public/assets/favicon.ico": {
+      "path": "/public/assets/favicon.ico",
+      "mimeType": "image/vnd.microsoft.icon"
+    },
+    "/public/assets/icons/.gitkeep": {
+      "path": "/public/assets/icons/.gitkeep",
+      "mimeType": "false"
+    },
+    "/public/assets/images/.gitkeep": {
+      "path": "/public/assets/images/.gitkeep",
+      "mimeType": "false"
+    },
+    "/public/assets/recipes-logo.png": {
+      "path": "/public/assets/recipes-logo.png",
+      "mimeType": "image/png"
+    },
+    "/favicon.ico": {
+      "path": "/favicon.ico",
+      "mimeType": "image/vnd.microsoft.icon"
+    }
+  }
+}
